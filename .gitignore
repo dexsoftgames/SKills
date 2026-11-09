@@ -1,1 +1,6 @@
-﻿synced/
+# U repou su samo Dejanova 3 skilla; ostali (Blender paket, tripo-cleanup, synced) ostaju samo na disku
+/*
+!/.gitignore
+!/kuce-i-modeli/
+!/uefn-exporter/
+!/unityexporterskill/
